@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799217123522",
+    "project_id": "simpricio-93bd3",
+    "storage_bucket": "simpricio-93bd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799217123522:android:85412c853c260907c67b5b",
+        "android_client_info": {
+          "package_name": "com.example.campo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799217123522-97t33krsteojnnh8704nbspnn9leo686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK_1ash-sVaEzVqMg9kl2kOVRWp8ZPTKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799217123522-97t33krsteojnnh8704nbspnn9leo686.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
